@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         textview = (TextView) findViewById(R.id.cntView);
         resetButton = (Button) findViewById(R.id.resetBtn);
 
-        textview.setText(""+cnt);
+        textview.setText(""+cnt);//
 
     }
 
