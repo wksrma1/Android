@@ -1,1 +1,2 @@
+include ':manbogi'
 include 'loger02', 'loger01'

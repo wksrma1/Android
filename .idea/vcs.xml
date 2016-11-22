@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="C:\sdk\src\Homework\Android" vcs="Git" />
+    <mapping directory="C:\sdk\src\Homework\Homework" vcs="Git" />
   </component>
 </project>
