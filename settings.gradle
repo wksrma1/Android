@@ -1,2 +1,2 @@
-include ':manbogi'
+include ':manbogi', ':myapplication'
 include 'loger02', 'loger01'
