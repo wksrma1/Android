@@ -1,7 +1,6 @@
 package com.example.myapplication;
 
 import android.content.Context;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -18,6 +17,7 @@ import java.util.ArrayList;
 
 public class TaskListViewAdaper extends BaseAdapter {
     ToggleButton tb;
+    View v;
     private ArrayList<TaskListViewItem> tasklistViewItemList =new ArrayList<TaskListViewItem>();
 
     public TaskListViewAdaper(){
@@ -39,43 +39,51 @@ public class TaskListViewAdaper extends BaseAdapter {
     }
 
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(int position, final View convertView, ViewGroup parent) {
         final int pos = position;
-        View v= convertView;
+        v= convertView;
         final Context context = parent.getContext();
+        final BaseAdapter adapter = this;
 
         if (v == null) {
             LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             v = inflater.inflate(R.layout.tasklistview_item, parent, false);
         }
 
-        TextView taskTextView = (TextView) v.findViewById(R.id.taskView) ;
+        final TextView taskTextView = (TextView) v.findViewById(R.id.taskView) ;
 
-        final TaskListViewItem listViewItem = tasklistViewItemList .get(position);
+        TaskListViewItem listViewItem = tasklistViewItemList .get(position);
         taskTextView.setText(listViewItem.getTaskName());
 
         tb = (ToggleButton)v.findViewById(R.id.toggleButton);
+        listViewItem.setToggleButton(tb);
 
-        tb.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener(){
 
-            @Override
+        tb.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+
+                @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if(isChecked==true){
-                    Log.d("온",""+pos);
-                }else{
-                    Log.d("오프",""+pos);
+
+                if(isChecked){
+                    for(int i=0; i<getCount();i++){
+                        if(i==pos) {
+
+                            continue;
+                        }
+                        ToggleButton tb = tasklistViewItemList.get(i).getToggleButton();
+                        tb.setChecked(false);
+                    }
                 }
             }
         });
+
+
         return v;
     }
 
     public void addItem(String taskname ) {
         TaskListViewItem item = new TaskListViewItem();
         item.setTaskName(taskname);
-
         tasklistViewItemList.add(item);
     }
-
-
 }
