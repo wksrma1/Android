@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_border_color_black_24dp.png",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_border_color_black_24dp.png"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_timer_black_24dp.png",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_timer_black_24dp.png"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_play_arrow_black_24dp.png",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_face_black_24dp.png",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_camera_alt_black_24dp.png",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_camera_alt_black_24dp.png"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_trending_up_black_24dp.png",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_trending_up_black_24dp.png"
+    }
+]

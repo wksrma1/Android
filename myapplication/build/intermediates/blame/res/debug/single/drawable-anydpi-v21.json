@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_play_arrow_black_24dp.xml",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_play_arrow_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_face_black_24dp.xml",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_face_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_timer_black_24dp.xml",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_timer_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_camera_alt_black_24dp.xml",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_camera_alt_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_border_color_black_24dp.xml",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_border_color_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_trending_up_black_24dp.xml",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_trending_up_black_24dp.xml"
+    }
+]

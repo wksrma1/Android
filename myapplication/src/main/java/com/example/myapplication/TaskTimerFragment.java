@@ -17,10 +17,13 @@ public class TaskTimerFragment extends Fragment {
     ListView list;
 
     Button resetBtn;
+
+    View contentView;
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
-        View contentView = inflater.inflate(R.layout.fragment_tasktimer,container,false);
+        contentView = inflater.inflate(R.layout.fragment_tasktimer,container,false);
 
         list = (ListView) contentView.findViewById(R.id.tasklistview);
 
@@ -30,10 +33,10 @@ public class TaskTimerFragment extends Fragment {
 
 
         resetBtn.setOnClickListener(new Button.OnClickListener(){
-        public void onClick(View v){
-            chronometer.setBase(SystemClock.elapsedRealtime());
-        }
-    });
+           public void onClick(View v){
+                chronometer.setBase(SystemClock.elapsedRealtime());
+            }
+        });
 
 
         adapter=new TaskListViewAdaper();
@@ -45,6 +48,10 @@ public class TaskTimerFragment extends Fragment {
         adapter.addItem("컴퓨터") ;
         adapter.addItem("TV") ;
 
+
+
         return contentView;
     }
+
+
 }

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\sdk\\src\\Homework\\myapplication\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\sdk\\src\\Homework\\myapplication\\src\\main\\res\\menu\\main.xml"
+    }
+]

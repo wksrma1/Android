@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c66d321d6e212ccad5a69a1abc93f6e397642787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eac18efae95b1b6441591863d9cddb22c980f49c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1b43bcb5b178a09a5a268782917263e1843428a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6d300f5171be29b098daf19f5f410508d54a6a24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_f27cc13829a9d94d3ccac7a816d156fde03665c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4e15c55d102d4f91ce2bd447f26b1f6bbe042b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\loger01\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\sdk\src\Homework\loger01\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_1efcd5ebe8d2503606713bdf26ccde99f535168e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2f33d57f82fda13f3c90dd9d955a9e85a8655a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d3e1dbe7aa953ee03a02ff0be61c3f6683c3f66f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_76095abb0c9c31efba6e5bfd3518b21253d92d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a29f9c0bbcbf0d37f22cdbd2b5c1bb8d32d52aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a29f9c0bbcbf0d37f22cdbd2b5c1bb8d32d52aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_04ab51003a685fb28cd1d8190c0e89cdca636adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\loger01\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ab7295caba5710805cba8de41a9168e15d0150e">
+        <dex dex="C:\sdk\src\Homework\loger01\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e6308b88000f599ba746a3a0ca3377340b909d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d3e1dbe7aa953ee03a02ff0be61c3f6683c3f66f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_76095abb0c9c31efba6e5bfd3518b21253d92d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\loger01\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\sdk\src\Homework\loger01\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_a517b5cde062f9bd831b11d1ca8d3280080d7fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_403fad6e036020f9551db6438ca3713f2e51757d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\sdk\src\Homework\loger01\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_52cda26d481ec7693faff68d4032dc11ca31ab7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\loger01\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bbf241abc21ee7d5b22ec094d607e042a4082a3a">
+        <dex dex="C:\sdk\src\Homework\loger01\build\intermediates\pre-dexed\debug\instant-run_6c2434134b238642b99eb1682e56c1429e1958bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_866a7bc1b6e7af15922ec5701cf09dd2f9292972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_297846075d4ca9c0e2f3d66b3f16ac7799d2f1cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="900ba02f9b9581fe7aab170583212c595cbe7d1f">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a2fbeac78b18f48a553daabf31f1382b68a5ce34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_297846075d4ca9c0e2f3d66b3f16ac7799d2f1cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_22bcc8e959c8ba6d80c54624e0c787929a5e2911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2f33d57f82fda13f3c90dd9d955a9e85a8655a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_f27cc13829a9d94d3ccac7a816d156fde03665c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1b43bcb5b178a09a5a268782917263e1843428a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4e15c55d102d4f91ce2bd447f26b1f6bbe042b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6d300f5171be29b098daf19f5f410508d54a6a24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_6bd982227d8377d6e85e255d2e17ff08da1d5786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\loger01\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\sdk\src\Homework\loger01\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-6.5.87_220a68d6b98673708490fd8e521d8f2d6550fbfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cd8a49c7e93487ff50c30fce62ef0a271b5e724d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eda828e0d745a50aa7e2685c60e044604d8a9136">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\instant-run_a2f5267d32a0c64e3439ca2d8ed405e20cff1741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_403fad6e036020f9551db6438ca3713f2e51757d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cd8a49c7e93487ff50c30fce62ef0a271b5e724d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_6bd982227d8377d6e85e255d2e17ff08da1d5786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_04ab51003a685fb28cd1d8190c0e89cdca636adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eac18efae95b1b6441591863d9cddb22c980f49c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_866a7bc1b6e7af15922ec5701cf09dd2f9292972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_22bcc8e959c8ba6d80c54624e0c787929a5e2911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\loger01\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\sdk\src\Homework\loger01\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_5feb99b7d74d710d1af5ff6e77d8d13274e3a5ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\src\Homework\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c66d321d6e212ccad5a69a1abc93f6e397642787.jar" />
+    </item>
+
+</items>
