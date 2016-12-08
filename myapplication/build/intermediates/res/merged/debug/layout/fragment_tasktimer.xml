@@ -20,13 +20,6 @@
             android:layout_height="300dp"/>
 
 
-    <Chronometer
-        android:id="@+id/chronometer"
-        android:layout_width="match_parent"
-        android:gravity="center"
-        android:layout_gravity="center"
-        android:layout_height="wrap_content"
-        />
     <Button
         android:id="@+id/resetBtn"
         android:layout_width="match_parent"

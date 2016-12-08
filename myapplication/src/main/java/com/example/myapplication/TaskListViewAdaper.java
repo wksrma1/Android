@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.Chronometer;
 import android.widget.CompoundButton;
 import android.widget.TextView;
 import android.widget.ToggleButton;
@@ -17,6 +18,7 @@ import java.util.ArrayList;
 
 public class TaskListViewAdaper extends BaseAdapter {
     ToggleButton tb;
+    Chronometer cr;
     View v;
     private ArrayList<TaskListViewItem> tasklistViewItemList =new ArrayList<TaskListViewItem>();
 
@@ -57,7 +59,8 @@ public class TaskListViewAdaper extends BaseAdapter {
 
         tb = (ToggleButton)v.findViewById(R.id.toggleButton);
         listViewItem.setToggleButton(tb);
-
+        cr = (Chronometer)v.findViewById(R.id.chronometer);
+        listViewItem.setChronometer(cr);
 
         tb.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
 
@@ -68,11 +71,16 @@ public class TaskListViewAdaper extends BaseAdapter {
                     for(int i=0; i<getCount();i++){
                         if(i==pos) {
 
+                            Chronometer chronometer =tasklistViewItemList.get(i).getChronometer();
+
+                            chronometer.start();
                             continue;
+
                         }
                         ToggleButton tb = tasklistViewItemList.get(i).getToggleButton();
                         tb.setChecked(false);
                     }
+
                 }
             }
         });

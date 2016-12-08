@@ -4,7 +4,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="76111030890561"
+    timestamp="284363321068876"
     token="3112011800927292626"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -26,7 +26,7 @@
         type="MAIN" />
 
     <build
-        timestamp="76111030890561"
+        timestamp="284363321068876"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\sdk\src\Homework\loger01\build\outputs\apk\loger01-debug.apk"

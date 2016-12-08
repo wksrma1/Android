@@ -1,5 +1,6 @@
 package com.example.myapplication;
 
+import android.widget.Chronometer;
 import android.widget.ToggleButton;
 
 /**
@@ -9,6 +10,7 @@ import android.widget.ToggleButton;
 public class TaskListViewItem {
     private String taskName;
     private ToggleButton toggleButton;
+    private Chronometer chronometer;
 
     public void setTaskName(String taskName) {
         this.taskName = taskName;
@@ -24,6 +26,12 @@ public class TaskListViewItem {
 
     public ToggleButton getToggleButton(){
         return this.toggleButton;
+    }
+
+    public Chronometer getChronometer(){return this.chronometer;}
+
+    public void setChronometer(Chronometer chronometer){
+        this.chronometer = chronometer;
     }
 
 

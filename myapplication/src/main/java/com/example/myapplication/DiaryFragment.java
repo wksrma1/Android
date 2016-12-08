@@ -141,7 +141,6 @@ public class DiaryFragment extends Fragment implements AdapterView.OnItemSelecte
 
 
 
-
     public void onActivityResult(int requestCode,
                                  int resultCode,
                                  Intent data) {

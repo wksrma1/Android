@@ -205,7 +205,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="900ba02f9b9581fe7aab170583212c595cbe7d1f">
+        sha1="316c377384b0fad7d72c2bc5470245d63d91827f">
         <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a2fbeac78b18f48a553daabf31f1382b68a5ce34.jar" />
     </item>
     <item
@@ -304,7 +304,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="eda828e0d745a50aa7e2685c60e044604d8a9136">
+        sha1="ff652f639542e1e112037d976bcf66de0972f834">
         <dex dex="C:\sdk\src\Homework\myapplication\build\intermediates\pre-dexed\debug\instant-run_a2f5267d32a0c64e3439ca2d8ed405e20cff1741.jar" />
     </item>
     <item

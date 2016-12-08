@@ -28,6 +28,15 @@
             android:textOn="On"
             android:textOff="Off" />
 
+        <Chronometer
+            android:id="@+id/chronometer"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            />
 
     </LinearLayout>
 
